@@ -228,4 +228,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # يرجى استبدال هذا التوكن فوراً بالتوكن الجديد بعد عمل Reset لحماية سيرفركِ
-bot.run("MTUyNzc1NTA2NTIzNzA0NTM2MA.GO9YRT.0S42jLpLCgsNzmPrWAOMb9x1fiweBg_HBj5_Fk")
+bot.run("MTUyNzc1NTA2NTIzNzA0NTM2MA.G4QJmY.UBOdyJveCv9K6A4To7xWxA1M1lh9qy5V6PHln0")
